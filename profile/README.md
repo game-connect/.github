@@ -9,6 +9,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=plastic)  
 ゲーム連携型チャットアプリケーション。
-
-## Infrastructure
-![gc](https://github.com/game-connect/.github/assets/71867595/38d9d158-6368-4479-b896-d55c5f5d2c9b)
